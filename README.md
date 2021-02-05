@@ -1,6 +1,6 @@
 # Exercícios resolvidos em Linguagem C
 #### Disciplina DS121 - Linguagem de Programação
-### TADS - UFPR
+##### TADS - UFPR
 
 * Lista de Ambientação
 * Lista 00
